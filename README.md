@@ -132,11 +132,12 @@ Output Waveform
 
 TABULATION:
 
+![WhatsApp Image 2026-04-06 at 22 44 48](https://github.com/user-attachments/assets/8a8ef6a6-1bfb-4ce2-9d8c-7065002affe4)
 
 
 Calculation
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+1.	ma (Theory) = am/ac = 0.5
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.5
 
 
 MODEL GRAPH
